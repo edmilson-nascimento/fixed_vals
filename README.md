@@ -1,9 +1,9 @@
 # fixed_vals
 Get fixed Values (busca de valores fixos)
-# 3 passos para um ALV Report #
+# Fixed Vals #
 
 [![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
-Esta implementação tem objetivo de codificar em _três passos_ um relatório utilizando ALV Report. Este tem como objetivo ser simples e direto.
+Esta implementação tem objetivo de codificar busca de dados de forma simples para valores fixos.
 
 ## Necessidade ##
 ~~Escrever um código que será postado no linkedin ao invés de escrever aqui e postar o link~~ Codificar um relatório de maneira simples e direta focando 3 principais passos: busca, processamento e exibição.
